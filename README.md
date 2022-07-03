@@ -28,3 +28,16 @@
 | Leg_Libia_bottom | 6 | Complete |
 | Leg_plank | 6 | Complete |
 | Leg_Tarsus | 6 | Complete |
+
+# BOM Screws and Nuts
+| Part name | QTY. |
+|:----------------|:---------|
+| ISO 7045 M2 x 8 | 72 |
+| ISO 7045 M2 x 10 | 4 |
+| DIN 7991 M3x10 | 4 |
+| ISO 7046 M2x20 | 30 |
+| Nut ISO 4032 M3 | 8 |
+| Nut ISO 4032 M2 | 30 |
+
+# BOM Other parts
+
